@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/CodeExplainedRepo/FlappyBird-JavaScript)
+
 # FlappyBird-JavaScript
 
 The Snake game, created using JavaScript, and The HTML5 canvas.
